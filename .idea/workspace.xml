@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecce9235-c0eb-4876-844a-11a09b5c732b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../_JDCoding/tagteacherApp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YvbreiXlv17VSFcps9etXX1rdk" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build ccut.cn/socksagent">
+    <configuration name="go build ccut.cn/socksagent" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="socksagent" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="ccut.cn/socksagent" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFunc in ccut.cn/socksagent" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="socksagent" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ccut.cn/socksagent" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFunc$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ccut.cn/socksagent" />
+        <item itemvalue="Go Test.TestFunc in ccut.cn/socksagent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <auto-vendoring-mode>false</auto-vendoring-mode>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Go_Modules_(vgo)" timestamp="1583826235656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Go_Modules_(vgo)/0.0.1280.680@0.0.1280.680" timestamp="1583826235656" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583937497498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1583937497498" />
+    <state width="1237" height="337" key="GridCell.Tab.0.bottom" timestamp="1584457758687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584457758687" />
+    <state width="1237" height="337" key="GridCell.Tab.0.center" timestamp="1584457758686">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584457758686" />
+    <state width="1237" height="337" key="GridCell.Tab.0.left" timestamp="1584457758684">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584457758684" />
+    <state width="1237" height="337" key="GridCell.Tab.0.right" timestamp="1584457758687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584457758687" />
+    <state width="1237" height="337" key="GridCell.Tab.1.bottom" timestamp="1584457758688">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584457758688" />
+    <state width="1237" height="337" key="GridCell.Tab.1.center" timestamp="1584457758687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584457758687" />
+    <state width="1237" height="337" key="GridCell.Tab.1.left" timestamp="1584457758687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584457758687" />
+    <state width="1237" height="337" key="GridCell.Tab.1.right" timestamp="1584457758687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="337" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584457758687" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1583914630854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583914630854" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1584189746941">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1584189746941" />
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1584422487387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584422487387" />
+    <state x="197" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584190222029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1584190222029" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/core/cipher.go</url>
+          <line>74</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tcp.go</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
